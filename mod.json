@@ -1,0 +1,17 @@
+{
+  "Name": "",
+  "Author": "", // your exact steam name
+  "Description": "",
+  "ModVersion": "1.0",
+  "GameVersion": "1.18+",
+  "ThumbnailPath": "",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+  ],
+  "Scripts": [
+    "all.cs" //1 script per line
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
